@@ -1,0 +1,29 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, serif;
+}
+
+
+.font1 {
+    font-family: 'Anton', sans-serif;
+    letter-spacing:5px;
+}
+
+.pdr{
+    padding-right:5px !important;
+}
+
+.pdl{
+    padding-left:5px !important;
+}
+
+.mgr{
+    margin-right:5px !important;
+}
+
+.mgl{
+    margin-left:5px !important;
+}
+
